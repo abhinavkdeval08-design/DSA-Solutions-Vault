@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+int main() {
     int n,a,b,c;
     int count = 0;
     scanf("%d", &n);
@@ -9,6 +9,6 @@ int main(){
             count++;
         }
     }
-    printf("%d", count);
+    printf("%d\n", count);
     return 0;
 }
