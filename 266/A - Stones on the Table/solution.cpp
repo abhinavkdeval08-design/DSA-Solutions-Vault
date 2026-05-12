@@ -10,4 +10,5 @@ int main(){
           count++;    }   
   }   
     cout << count;    
-    return 0;}
+    return 0;
+}
