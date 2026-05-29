@@ -1,26 +1,23 @@
-// Last updated: 29/05/2026, 23:58:09
+// Last updated: 29/05/2026, 23:59:39
 1class Solution {
 2public:
 3    bool checkSubarraySum(vector<int>& nums, int k) {
 4        unordered_map<int, int> mp;
 5        mp[0] = -1;
-6        int prefixSum = 0;
-7        
-8        for (int i = 0; i < nums.size(); i++) {
-9            prefixSum += nums[i];
-10            int rem = prefixSum % k;
-11            
-12            if (rem < 0) rem += k;
-13            
-14            if (mp.count(rem)) {
-15                if (i - mp[rem] >= 2) {
-16                    return true;
+6        int prefsum =0;
+7        for(int i=0;i<nums.size();i++){
+8            prefsum += nums[i];
+9            int rem = prefsum%k;
+10            if (rem < 0) rem += k;
+11            if(mp.find(rem) != mp.end(rem)){
+12                if((i-mp[rem]) >=2){
+13                    return true;
+14                } }
+15                else{
+16                    mp[rem] = i;
 17                }
-18            } else {
-19                mp[rem] = i;
-20            }
-21        }
-22        
-23        return false;
-24    }
-25};
+18            
+19        }
+20        return false;
+21    }
+22};
