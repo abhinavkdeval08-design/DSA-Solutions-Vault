@@ -3,7 +3,7 @@
 <div align="center">
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-197+-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-418-blue?style=for-the-badge&logo=codeforces&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-741-blue?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B20-red?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Institute](https://img.shields.io/badge/IIIT-Kalyani-darkgreen?style=for-the-badge)
 
