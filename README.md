@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhinav_deval07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-262%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhinav_deval07/)
+[![Contest Rating](https://img.shields.io/badge/LC%20Rating-1530-yellow?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav_deval07/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-902-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinavkdeval29)
 [![Codolio](https://img.shields.io/badge/Codolio-328%2B%20Solved-00D4FF?style=for-the-badge&logo=codeforces&logoColor=black)](https://codolio.com/profile/Abhinavdeval07)
 [![Streak](https://img.shields.io/badge/Max%20Streak-91%20Days-brightgreen?style=for-the-badge&logo=fire&logoColor=white)](https://codolio.com/profile/Abhinavdeval07)
@@ -28,39 +29,63 @@ Welcome to my **DSA Solutions Vault**! This repository is a curated collection o
 ## 📊 Platform Analytics
 
 <div align="center">
-  <img src="./devCard.png" alt="Abhinav Deval Dev Card" width="85%" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./devCard.png" alt="Abhinav Deval Dev Card" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-### 💻 LeetCode Live Card
+### 📈 Progress Summary
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" />
-</div>
-
-<br/>
-
-### 📈 Progress Summary (via [Codolio](https://codolio.com/profile/Abhinavdeval07))
+**Combined (via [Codolio](https://codolio.com/profile/Abhinavdeval07))**
 
 | Metric | Value |
 |---|---|
-| 🧩 Total Questions Solved | **328** |
-| 📅 Active Days | **155** |
+| 🧩 Total Questions Solved (All Platforms) | **328+** |
+| 📅 Active Days (Combined) | **155** |
 | 🔥 Max Streak | **91 Days** |
-| 🔥 Current Streak | **91 Days** |
 | 📝 Total Submissions | **476** |
-| 🏆 Contests Attended | **6** (LeetCode: 3 • Codeforces: 3) |
-| ⭐ Latest Contest Rating | **1500** (Biweekly Contest 190) |
-| 🌍 Codeforces Max Rating | **902** (Newbie) |
 
-**DSA Difficulty Split:** 🟢 Easy `106` • 🟡 Medium `156` • 🔴 Hard `45` (Total: `307`)
-**Competitive Programming:** `21` problems across Codeforces
+**LeetCode Breakdown** — [@abhinav_deval07](https://leetcode.com/u/abhinav_deval07/)
 
-- **LeetCode:** [@abhinav_deval07](https://leetcode.com/u/abhinav_deval07/)
-- **Codeforces:** [@abhinavkdeval29](https://codeforces.com/profile/abhinavkdeval29) (Max Rating: 902)
-- **Codolio:** [@Abhinavdeval07](https://codolio.com/profile/Abhinavdeval07) (328+ Total Solved | 91-Day Max & Current Streak)
+| Metric | Value |
+|---|---|
+| ✅ Solved | **262 / 4051** (🟢 97 Easy • 🟡 133 Medium • 🔴 32 Hard) |
+| 🎯 Acceptance Rate | **81.71%** |
+| ⭐ Contest Rating | **1530** |
+| 🏆 Contests Attended | **2** |
+| 📅 Active Days (LC only) | **113** |
+| 🔥 Max Streak (LC only) | **91 Days** |
+
+**Codeforces Breakdown** — [@abhinavkdeval29](https://codeforces.com/profile/abhinavkdeval29)
+
+| Metric | Value |
+|---|---|
+| 🌍 Max Rating | **902** (Newbie) |
+| 🏆 Contests Attended | **3** |
+| 🧩 Problems Solved | **21** |
+
 - **Active Goal:** Cracking 100+ DP & Graph problems, pushing CF rank towards **Pupil**, and scaling Vibrodo's audio engine.
+
+### 🧠 Skills Breakdown (LeetCode)
+
+| Level | Top Tags |
+|---|---|
+| 🔴 Advanced | Dynamic Programming `x32` • Game Theory `x10` • Divide and Conquer `x9` |
+| 🟡 Intermediate | Math `x70` • Hash Table `x57` • Greedy `x31` |
+| 🟢 Fundamental | Array `x157` • String `x59` • Sorting `x46` |
+
+### 💻 Languages Used
+
+`C++` — 254 problems • `JavaScript` — 5 problems • `C` — 3 problems
 
 ---
 
