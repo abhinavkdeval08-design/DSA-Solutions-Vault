@@ -32,7 +32,7 @@ Welcome to my **DSA Solutions Vault**! This repository is a curated collection o
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="./devCard.png" alt="Abhinav Deval Dev Card" width="100%" />
+        <img src="./profileCard.png" alt="Abhinav Deval Dev Card" width="100%" />
       </td>
       <td align="center" width="50%">
         <img src="https://leetcard.jacoblin.cool/abhinav_deval07?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" width="100%" />
