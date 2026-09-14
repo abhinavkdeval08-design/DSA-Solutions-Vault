@@ -1,18 +1,26 @@
-# 🚀 DSA Solutions Vault | Abhinav Deval
-
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-262%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abhinav_deval07/)
-[![Contest Rating](https://img.shields.io/badge/LC%20Rating-1530-yellow?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav_deval07/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-902-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinavkdeval29)
-[![Codolio](https://img.shields.io/badge/Codolio-328%2B%20Solved-00D4FF?style=for-the-badge&logo=codeforces&logoColor=black)](https://codolio.com/profile/Abhinavdeval07)
-[![Streak](https://img.shields.io/badge/Max%20Streak-91%20Days-brightgreen?style=for-the-badge&logo=fire&logoColor=white)](https://codolio.com/profile/Abhinavdeval07)
-[![Language](https://img.shields.io/badge/Language-C%2B%2B20-red?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Institute](https://img.shields.io/badge/IIIT-Kalyani-darkgreen?style=for-the-badge)](http://iiitkalyani.ac.in/)
+# 🚀 DSA Solutions Vault
+### Abhinav Deval
 
-*Solving one problem at a time, building algorithms that scale.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Solving+one+problem+at+a+time+%F0%9F%9A%80;332%2B+problems+solved+across+platforms;LeetCode+Rating+1530+%E2%80%A2+Codeforces+Pupil+(1271);93+day+max+streak+%F0%9F%94%A5;Preparing+for+GSoC+2027+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-[LeetCode](https://leetcode.com/u/abhinav_deval07/) • [Codeforces](https://codeforces.com/profile/abhinavkdeval29) • [Codolio](https://codolio.com/profile/Abhinavdeval07) • [LinkedIn](https://www.linkedin.com/in/abhinav-deval-549b6438b/)
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-263%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav_deval07/)
+[![Contest Rating](https://img.shields.io/badge/LC%20Rating-1530-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinav_deval07/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1271)-1E7D32?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinavkdeval29)
+[![Codolio](https://img.shields.io/badge/Codolio-332%20Solved-00D4FF?style=for-the-badge&logo=codeforces&logoColor=0a0f1e)](https://codolio.com/profile/Abhinavdeval07)
+[![Streak](https://img.shields.io/badge/Max%20Streak-93%20Days-brightgreen?style=for-the-badge&logo=fire&logoColor=white)](https://codolio.com/profile/Abhinavdeval07)
+[![Institute](https://img.shields.io/badge/IIIT-Kalyani-6a0dad?style=for-the-badge)](http://iiitkalyani.ac.in/)
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,js&perline=3)](https://skillicons.dev)
+
+<br/>
+
+**[🔗 LeetCode](https://leetcode.com/u/abhinav_deval07/) &nbsp;•&nbsp; [🔗 Codeforces](https://codeforces.com/profile/abhinavkdeval29) &nbsp;•&nbsp; [🔗 Codolio](https://codolio.com/profile/Abhinavdeval07) &nbsp;•&nbsp; [🔗 LinkedIn](https://www.linkedin.com/in/abhinav-deval-549b6438b/)**
 
 </div>
 
@@ -23,6 +31,10 @@
 Welcome to my **DSA Solutions Vault**! This repository is a curated collection of my solutions to various algorithmic challenges. While I actively participate in Codeforces contests, **LeetCode** and core CP platforms are where I focus on mastering complex data structures, algorithmic patterns, and low-latency system bounds.
 
 > *"Consistency is the only shortcut to success."* 🔁
+
+- 🎓 ECE @ IIIT Kalyani (Batch of 2029)
+- 🎯 Active goal: cracking **100+ DP & Graph** problems and pushing my Codeforces rank toward **Specialist**
+- 🌱 Preparing to contribute to **GSoC 2027**
 
 ---
 
@@ -45,35 +57,53 @@ Welcome to my **DSA Solutions Vault**! This repository is a curated collection o
 
 ### 📈 Progress Summary
 
-**Combined (via [Codolio](https://codolio.com/profile/Abhinavdeval07))**
+<details open>
+<summary><b>Combined (via <a href="https://codolio.com/profile/Abhinavdeval07">Codolio</a>)</b></summary>
+<br/>
 
 | Metric | Value |
 |---|---|
-| 🧩 Total Questions Solved (All Platforms) | **328+** |
-| 📅 Active Days (Combined) | **155** |
-| 🔥 Max Streak | **91 Days** |
-| 📝 Total Submissions | **476** |
+| 🧩 Total Questions Solved (All Platforms) | **332** (🟢 107 Easy • 🟡 156 Medium • 🔴 45 Hard) |
+| 📅 Active Days (Combined) | **157** |
+| 🔥 Max / Current Streak | **93 Days** |
+| 📝 Total Submissions | **479** |
+| 🏆 Contests Attended (Combined) | **8** (LeetCode 3 • Codeforces 5) |
+| ⭐ Codolio Rating | **1500** |
+| 🌐 Global Rank (Codolio) | **10,200** |
 
-**LeetCode Breakdown** — [@abhinav_deval07](https://leetcode.com/u/abhinav_deval07/)
+</details>
+
+<details>
+<summary><b>LeetCode Breakdown — <a href="https://leetcode.com/u/abhinav_deval07/">@abhinav_deval07</a></b></summary>
+<br/>
 
 | Metric | Value |
 |---|---|
-| ✅ Solved | **262 / 4051** (🟢 97 Easy • 🟡 133 Medium • 🔴 32 Hard) |
-| 🎯 Acceptance Rate | **81.71%** |
+| ✅ Solved | **263 / 4055** (🟢 98 Easy • 🟡 133 Medium • 🔴 32 Hard) |
+| 🎯 Acceptance Rate | **81.8%** |
 | ⭐ Contest Rating | **1530** |
 | 🏆 Contests Attended | **2** |
-| 📅 Active Days (LC only) | **113** |
-| 🔥 Max Streak (LC only) | **91 Days** |
+| 📅 Active Days | **115** |
+| 🔥 Max Streak | **93 Days** |
+| 🌐 Global Rank | **604,302** |
+| 🏅 Badges | 50 Days Badge 2026 • 100 Days Badge 2026 • Aug LeetCoding Challenge |
 
-**Codeforces Breakdown** — [@abhinavkdeval29](https://codeforces.com/profile/abhinavkdeval29)
+</details>
+
+<details>
+<summary><b>Codeforces Breakdown — <a href="https://codeforces.com/profile/abhinavkdeval29">@abhinavkdeval29</a></b></summary>
+<br/>
 
 | Metric | Value |
 |---|---|
-| 🌍 Max Rating | **902** (Newbie) |
-| 🏆 Contests Attended | **3** |
-| 🧩 Problems Solved | **21** |
+| 🌍 Current / Max Rating | **1271 (Pupil)** |
+| 🧩 Problems Solved | **24** |
+| 🔥 Max Streak | **4 Days** |
+| 📍 Location | Bikaner, India |
 
-- **Active Goal:** Cracking 100+ DP & Graph problems, pushing CF rank towards **Pupil**, and scaling Vibrodo's audio engine.
+</details>
+
+<br/>
 
 ### 🧠 Skills Breakdown (LeetCode)
 
@@ -90,8 +120,6 @@ Welcome to my **DSA Solutions Vault**! This repository is a curated collection o
 ---
 
 ## 📂 Repository Structure
-
-The vault is organized by platform for clean navigation and searchability:
 
 ```bash
 .
@@ -122,11 +150,29 @@ The vault is organized by platform for clean navigation and searchability:
 | 49 | Group Anagrams | 🟡 Medium | Hash Map Categorization | [View Code](#) |
 | 56 | Merge Intervals | 🟡 Medium | Interval Sorting / Greedy | [View Code](#) |
 
+<details>
+<summary>🕐 <b>Recently Solved (LeetCode)</b> — click to expand</summary>
+<br/>
+
+- Array Wrapper
+- Minimum Days to Score Exactly N Points
+- Count Values With Equally Spaced Occurrences II
+- Count Values With Equally Spaced Occurrences I
+- Longest Palindromic Substring
+- Consecutive Numbers Sum
+- Poor Pigs
+- Distinct Subsequences
+- Stone Game VIII
+
+</details>
+
 ## 🛠️ Tech Stack & Tools
 
 - **Language:** C++20 (G++ 13)
 - **Environment:** VS Code, Linux CLI, Codeforces Web IDE
 - **Core Strengths:** Arrays, Dynamic Programming, Sliding Window, Monotonic Stacks, Hash Tables, Trees & Graphs
+
+---
 
 ## 🤝 Let's Connect!
 
